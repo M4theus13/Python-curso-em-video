@@ -1,5 +1,5 @@
-#Conversor de temperatura de C para K e F
-#Faça um programa que leia uma temperatura em °C e a converta para °K e °F
+"""Conversor de temperatura de C para K e F
+Faça um programa que leia uma temperatura em °C e a converta para °K e °F"""
 tempC = float(input('Insira uma temperatura em °C: '))
 
 tempF = (tempC * (9/5)) + 32 
