@@ -1,3 +1,2 @@
 Matheus;18
 Mariana;10
-João;50
