@@ -1,2 +1,8 @@
-Matheus;18
-Mariana;10
+Lucas;25
+Isabela;22
+Pedro;15
+Rafael;27
+Carolina;32
+Tiago;12
+Sofia;20
+Ana;30
